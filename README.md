@@ -1,5 +1,5 @@
 # SAT406_Code_1824605
-This is a repository for all code used by SAT406 dissertation 'A Systematic Review of Positive Unlabeled Learning: Recent Advances and Methodological Classification' of Jingyi Deng. Files including the code of some recent PU learning algorithms, such as VAE-PU from Na et al. (2020), VPU from Chen et al. (2020) and PUSB from Kato et al. (2018). Meanwhile, the data split and class settings of our experiment follow the settings in Chen et al. (2020).
+This is a repository for all code used by SAT406 dissertation 'A Systematic Review of Positive Unlabeled Learning: Recent Advances and Methodological Classification' of Jingyi Deng. Files include the code of some recent PU learning algorithms, such as VAE-PU from Na et al. (2020), VPU from Chen et al. (2020) and PUSB from Kato et al. (2018). Meanwhile, the data split and class settings of our experiment follow the settings in Chen et al. (2020).
 
 ## Reference
 
